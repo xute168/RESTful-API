@@ -5,7 +5,8 @@ Installation:
     1.In appsettings.json, modify the database connectstring
     2.run "update-database" command in Package Manager Console
 CRUD for Employee:
-      1.Get :http://localhost:1253/api/Employees/:
+      1.Get :http://localhost:1253/api/Employees/: 
+             Sample:
                    [
                         {
                           "employeeId": 7,
@@ -33,3 +34,6 @@ CRUD for Employee Task:
       2.Put: http://localhost:1253/api/Employees/{employee_id}/EmployeeTasks
       3.Post: http://localhost:1253/api/Employees/{employee_id}/EmployeeTasks
       4:Delete: http://localhost:1253/api/Employees/{employee_id}/EmployeeTasks/{EmployeeTasks_id}
+
+Employee.MVC:
+      MVC page to display existing employee: http://localhost:14724/
