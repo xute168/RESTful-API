@@ -1,0 +1,14 @@
+d:\users\mxu@aocit.com\source\repos\Employee.RESTful.API.ALL\Employee.RESTful.API\bin\Debug\netcoreapp2.1\Employee.RESTful.API.deps.json
+d:\users\mxu@aocit.com\source\repos\Employee.RESTful.API.ALL\Employee.RESTful.API\bin\Debug\netcoreapp2.1\Employee.RESTful.API.runtimeconfig.json
+d:\users\mxu@aocit.com\source\repos\Employee.RESTful.API.ALL\Employee.RESTful.API\bin\Debug\netcoreapp2.1\Employee.RESTful.API.runtimeconfig.dev.json
+d:\users\mxu@aocit.com\source\repos\Employee.RESTful.API.ALL\Employee.RESTful.API\bin\Debug\netcoreapp2.1\Employee.RESTful.API.dll
+d:\users\mxu@aocit.com\source\repos\Employee.RESTful.API.ALL\Employee.RESTful.API\bin\Debug\netcoreapp2.1\Employee.RESTful.API.pdb
+d:\users\mxu@aocit.com\source\repos\Employee.RESTful.API.ALL\Employee.RESTful.API\obj\Debug\netcoreapp2.1\Employee.RESTful.API.csproj.CoreCompileInputs.cache
+d:\users\mxu@aocit.com\source\repos\Employee.RESTful.API.ALL\Employee.RESTful.API\obj\Debug\netcoreapp2.1\Employee.RESTful.API.RazorAssemblyInfo.cache
+d:\users\mxu@aocit.com\source\repos\Employee.RESTful.API.ALL\Employee.RESTful.API\obj\Debug\netcoreapp2.1\Employee.RESTful.API.RazorAssemblyInfo.cs
+d:\users\mxu@aocit.com\source\repos\Employee.RESTful.API.ALL\Employee.RESTful.API\obj\Debug\netcoreapp2.1\Employee.RESTful.API.AssemblyInfoInputs.cache
+d:\users\mxu@aocit.com\source\repos\Employee.RESTful.API.ALL\Employee.RESTful.API\obj\Debug\netcoreapp2.1\Employee.RESTful.API.AssemblyInfo.cs
+d:\users\mxu@aocit.com\source\repos\Employee.RESTful.API.ALL\Employee.RESTful.API\obj\Debug\netcoreapp2.1\Employee.RESTful.API.RazorTargetAssemblyInfo.cache
+d:\users\mxu@aocit.com\source\repos\Employee.RESTful.API.ALL\Employee.RESTful.API\obj\Debug\netcoreapp2.1\Employee.RESTful.API.dll
+d:\users\mxu@aocit.com\source\repos\Employee.RESTful.API.ALL\Employee.RESTful.API\obj\Debug\netcoreapp2.1\Employee.RESTful.API.pdb
+D:\Users\mxu@aocit.com\source\repos\Employee.RESTful.API.ALL\Employee.RESTful.API\obj\Debug\netcoreapp2.1\Employee.RESTful.API.csprojAssemblyReference.cache
